@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.18mm"
+   height="16.18mm"
+   viewBox="0 0 16.18 16.18"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="42.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="157.09873"
+     inkscape:cy="58.413401"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(74.449635,-152.64426)">
+    <g
+       id="g835"
+       inkscape:export-xdpi="75.352264"
+       inkscape:export-ydpi="75.352264">
+      <path
+         inkscape:connector-curvature="0"
+         id="path819"
+         d="m -58.269635,160.73427 a 8.0900007,8.0900007 0 0 1 -8.089999,8.08999 8.0900007,8.0900007 0 0 1 -8.090001,-8.08999 8.0900007,8.0900007 0 0 1 8.090001,-8.09001 8.0900007,8.0900007 0 0 1 8.089999,8.09001 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6343435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <g
+         id="text817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.65623188px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31222051"
+         aria-label="42">
+        <path
+           id="path826"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sports Jersey';-inkscape-font-specification:'Sports Jersey';fill:#0000ff;stroke-width:0.31222051"
+           d="m -68.513875,162.584 h -2.84576 v -1.42288 l 2.561184,-4.26864 h 1.707456 v 4.26864 h 0.569152 v 1.42288 h -0.569152 v 0.56915 h 0.569152 v 1.42288 h -2.561184 v -1.42288 h 0.569152 z m 0,-3.60842 -1.354582,2.18554 h 1.354582 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sports Jersey';-inkscape-font-specification:'Sports Jersey';fill:#0000ff;stroke-width:0.31222051"
+           d="m -62.497939,156.89248 1.138303,1.13831 v 2.2766 l -1.138303,1.13831 h -1.707456 v 1.70745 h 1.42288 V 162.584 h 1.422879 v 1.99203 h -4.268639 v -3.41491 l 1.138304,-1.1383 h 1.707456 v -1.70746 h -1.42288 v 0.56916 h -1.42288 v -0.85373 l 1.138304,-1.13831 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       id="text824"
+       y="142.48332"
+       x="-30.294788"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sports Jersey';-inkscape-font-specification:'Sports Jersey';fill:#0000ff;stroke-width:0.26458332"
+         y="142.48332"
+         x="-30.294788"
+         id="tspan822"
+         sodipodi:role="line">42</tspan></text>
+  </g>
+</svg>
