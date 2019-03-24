@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Questions
+echo -e "Do you have a QUESTION ??"
+read q
+echo "The anwser is >>>  42"
