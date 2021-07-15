@@ -1,5 +1,5 @@
 # 42 [7x6]
 
-> GitHub Pages : DevPage
+> GitHub Pages : The DevPage
 
 
